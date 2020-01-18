@@ -1,1 +1,2 @@
-Hello from Mohammed's House
+Numbers = "This is numbers"
+print(numbers)
